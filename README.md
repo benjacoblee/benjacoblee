@@ -7,7 +7,7 @@
 -   :mag: Open to employment opportunities
 -   :books: Javascript, React, PostgresQL, etc.
 -   :scream: Learning DS and algorithms
--   :musical_keyboard: :video_game: Interested in music and gaming!
--   :pencil: Portfolio and blog [here](https://benjacoblee.netlify.app/)
+-   :musical_keyboard: :video_game: Interested in music and gaming! Trying to pick up skating
+-   :pencil: I write [here](https://benjacoblee.netlify.app/blog)
 
 [![Ben's github stats](https://github-readme-stats.vercel.app/api?username=benjacoblee)](https://github.com/anuraghazra/github-readme-stats)
